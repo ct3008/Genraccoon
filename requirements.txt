@@ -2,3 +2,7 @@ h5py
 numpy
 pandas
 tqdm
+nltk
+gensim
+scikit-learn
+keras

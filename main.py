@@ -3,6 +3,9 @@ import h5py
 import numpy as np
 import pandas as pd
 from tqdm import tqdm
+import sqlite3
+
+conn = sqlite3.connect('track_metadata.db')
 
 
 # --------------------------------------
@@ -61,7 +64,7 @@ def process_dataset(h5_directory):
                 features = extract_audio_features(h5_path)
                 if features:
                     data.append(features)
-    print(f"✅ Processed {len(data)} .h5 audio files.")
+    print(f"Processed {len(data)} .h5 audio files.")
     return pd.DataFrame(data)
 
 
@@ -78,7 +81,7 @@ def load_tagtraum_genres(cls_file_path):
                 genres = ' '.join(parts[1:]).strip()
                 genre_data.append((track_id, genres))
     genre_df = pd.DataFrame(genre_data, columns=['track_id', 'genre'])
-    print(f"✅ Loaded {len(genre_df)} genre entries from {cls_file_path}")
+    print(f"Loaded {len(genre_df)} genre entries from {cls_file_path}")
     return genre_df
 
 
@@ -101,7 +104,7 @@ def load_mxm_lyrics_incrementally(path, track_ids_to_extract):
                 vocab = line[2:].split(',')
                 idx_to_word = {i+1: word for i, word in enumerate(vocab)}
                 found_vocab = True
-                print(f"✅ Loaded {len(idx_to_word)} vocab words from line {line_num}")
+                print(f"Loaded {len(idx_to_word)} vocab words from line {line_num}")
                 continue
 
             parts = line.split(',')
@@ -143,6 +146,7 @@ if __name__ == "__main__":
     # Step 1: Audio
     df_audio = process_dataset(h5_directory)
     track_ids = set(df_audio['track_id'])
+    # df_audio.to_csv("audio_basic.csv")
 
     # Step 2: Genre Appending
     genre_df = load_tagtraum_genres(genre_file)
