@@ -158,8 +158,13 @@ if __name__ == "__main__":
     all_lyrics = {**lyrics_test, **lyrics_train}
 
     df_audio['lyrics'] = df_audio['track_id'].map(all_lyrics)
-    df_audio = df_audio.dropna(subset=['lyrics'])
+    # df_audio = df_audio.dropna(subset=['lyrics'])
 
     print(f"Final dataset has {len(df_audio)} tracks with audio, genre, and lyrics.")
     df_audio.to_csv('msd_dataset_full.csv', index=False)
     print("Saved: msd_dataset_full.csv")
+    
+    print("Total tracks:", len(df_audio))
+    print("Tracks with genre:", df_audio['genre'].notna().sum())
+    print("Tracks with lyrics:", df_audio['lyrics'].notna().sum())
+    print("Tracks with both:", df_audio.dropna(subset=['genre', 'lyrics']).shape[0])
