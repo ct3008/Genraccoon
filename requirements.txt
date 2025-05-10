@@ -6,3 +6,4 @@ nltk
 gensim
 scikit-learn
 keras
+lyricsgenius
