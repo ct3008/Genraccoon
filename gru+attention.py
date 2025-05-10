@@ -1,4 +1,4 @@
-# sliding window GRU with updated preprocessing and stratified splits
+# sliding window GRU with attention, downsampling, and full evaluation
 import pandas as pd
 import numpy as np
 import re
@@ -14,12 +14,30 @@ from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.utils import to_categorical
 from tensorflow.keras.models import Model
-from tensorflow.keras.layers import Input, Embedding, GRU, Dense, Dropout, Bidirectional, Concatenate
+from tensorflow.keras.layers import Input, Embedding, GRU, Dense, Dropout, Bidirectional, Concatenate, Layer
 from tensorflow.keras.callbacks import EarlyStopping
+import tensorflow as tf
 import matplotlib.pyplot as plt
 import seaborn as sns
 
 nltk.download('stopwords')
+
+# Attention Layer
+class AttentionLayer(Layer):
+    def __init__(self, **kwargs):
+        super(AttentionLayer, self).__init__(**kwargs)
+
+    def build(self, input_shape):
+        self.Wa = self.add_weight(name='Wa', shape=(input_shape[-1], input_shape[-1]), initializer='glorot_uniform', trainable=True)
+        self.ba = self.add_weight(name='ba', shape=(input_shape[-1],), initializer='zeros', trainable=True)
+        self.va = self.add_weight(name='va', shape=(input_shape[-1], 1), initializer='glorot_uniform', trainable=True)
+        super(AttentionLayer, self).build(input_shape)
+
+    def call(self, inputs):
+        uit = tf.tanh(tf.tensordot(inputs, self.Wa, axes=1) + self.ba)
+        ait = tf.nn.softmax(tf.tensordot(uit, self.va, axes=1), axis=1)
+        weighted_input = inputs * ait
+        return tf.reduce_sum(weighted_input, axis=1)
 
 # Load and preprocess data
 SEED = 42
@@ -39,7 +57,7 @@ valid_genres = genre_counts[genre_counts >= 20].index
 df = df[df['genre'].isin(valid_genres)]
 
 # Dynamically downsample overly dominant genres
-threshold = 0.3 * len(df)  # e.g., no class should take more than 30% of the data
+threshold = 0.3 * len(df)
 balanced_dfs = []
 for genre, count in df['genre'].value_counts().items():
     genre_df = df[df['genre'] == genre]
@@ -60,7 +78,12 @@ filtered_index = {word: i+1 for i, word in enumerate(valid_words)}
 tokenizer.word_index = filtered_index
 tokenizer.index_word = {i: word for word, i in filtered_index.items()}
 
-# Create sliding windows
+# Sliding windows
+X_seq = []
+y_seq = []
+labels = df['genre'].tolist()
+tokenized_seqs = tokenizer.texts_to_sequences(df['cleaned_lyrics'])
+
 def create_sliding_windows(seq, window_size=100, step_size=50):
     windows = []
     for start in range(0, len(seq) - window_size + 1, step_size):
@@ -68,11 +91,6 @@ def create_sliding_windows(seq, window_size=100, step_size=50):
     if not windows and len(seq) > 0:
         windows.append(seq[:window_size])
     return windows
-
-X_seq = []
-y_seq = []
-labels = df['genre'].tolist()
-tokenized_seqs = tokenizer.texts_to_sequences(df['cleaned_lyrics'])
 
 for i, seq in enumerate(tokenized_seqs):
     windows = create_sliding_windows(seq, window_size=100, step_size=50)
@@ -96,7 +114,7 @@ meta_features = ['duration','tempo','key','loudness'] + [
 ] + [f'pitch_std_{i}' for i in range(12)] + [f'timbre_mean_{i}' for i in range(12)] + [f'timbre_std_{i}' for i in range(12)]
 df[meta_features] = df[meta_features].fillna(0)
 scaler = StandardScaler()
-# Expand metadata to align with sliding windows
+
 meta_rows = []
 for i, seq in enumerate(tokenized_seqs):
     windows = create_sliding_windows(seq, window_size=100, step_size=50)
@@ -108,7 +126,7 @@ for i, seq in enumerate(tokenized_seqs):
 X_meta_all = np.array(meta_rows)
 X_meta_all = scaler.fit_transform(X_meta_all)
 
-# Split
+# Train/test split
 X_train_lyrics, X_temp_lyrics, X_train_meta, X_temp_meta, y_train, y_temp, y_train_labels, y_temp_labels = train_test_split(
     X, X_meta_all, y, y_labels, test_size=0.3, stratify=y_labels, random_state=SEED
 )
@@ -117,11 +135,11 @@ X_val_lyrics, X_test_lyrics, X_val_meta, X_test_meta, y_val, y_test, y_val_label
     X_temp_lyrics, X_temp_meta, y_temp, y_temp_labels, test_size=0.5, stratify=y_temp_labels, random_state=SEED
 )
 
-# Build and train model
+# Model with Attention
 input_lyrics = Input(shape=(100,))
-x = Embedding(input_dim=embedding_matrix.shape[0], output_dim=50,
-              weights=[embedding_matrix], trainable=False)(input_lyrics)
-x = Bidirectional(GRU(64))(x)
+x = Embedding(input_dim=embedding_matrix.shape[0], output_dim=50, weights=[embedding_matrix], trainable=False)(input_lyrics)
+x = Bidirectional(GRU(64, return_sequences=True))(x)
+x = AttentionLayer()(x)
 x = Dropout(0.3)(x)
 
 input_meta = Input(shape=(X_train_meta.shape[1],))
@@ -136,7 +154,7 @@ model.fit([X_train_lyrics, X_train_meta], y_train,
           validation_data=([X_val_lyrics, X_val_meta], y_val),
           batch_size=64, epochs=20, callbacks=[early], verbose=2)
 
-# Evaluate
+# Evaluation
 y_pred = np.argmax(model.predict([X_test_lyrics, X_test_meta]), axis=1)
 y_true = y_test_labels
 
