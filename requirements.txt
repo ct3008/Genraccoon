@@ -1,8 +1,11 @@
-h5py
-numpy
+matplotlib
 pandas
-tqdm
-nltk
-gensim
+numpy
+tensorflow==2.19.0
+tabulate
+seaborn
 scikit-learn
-keras
+nltk
+pickle
+tqdm
+ast
