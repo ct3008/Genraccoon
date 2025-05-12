@@ -1,0 +1,1380 @@
+
+🎵 Test Recommendation for: Shogun [with fade_ for special edition] by Trivium (Genre: Metal)
+| track_id           | title                    | artist_name                       | genre    |
+|--------------------|--------------------------|-----------------------------------|----------|
+| TRAQYZI128F4273CF3 | Indian Queen             | Electric Light Orchestra          | Rock     |
+| TRASAIH128F931F567 | Betrayal Is A Symptom    | Thrice                            | Rock     |
+| TRAPZYB128F9309217 | Ninja Mental             | Illya Kuryaki And The Valderramas | Rock     |
+| TRARUTP128E0797FC7 | Crawling (Album Version) | Linkin Park                       | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)         | Jean-Jacques Goldman              | Pop Rock |
+================================================================================
+
+🎵 Test Recommendation for: Wish by Brian Littrell (Genre: Pop)
+| track_id           | title                          | artist_name              | genre    |
+|--------------------|--------------------------------|--------------------------|----------|
+| TRASWIV128E0788A84 | Real Love                      | The Smashing Pumpkins    | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman     | Pop Rock |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock     |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock     |
+| TRAIOBB128F146A944 | L'horizon Chimérique           | Julien Clerc             | Pop      |
+================================================================================
+
+🎵 Test Recommendation for: Play by Jennifer Lopez (Genre: Pop)
+| track_id           | title                     | artist_name          | genre    |
+|--------------------|---------------------------|----------------------|----------|
+| TRAIGSC128F933BBD7 | Printemps                 | Les Ogres De Barback | Jazz     |
+| TRANJMO128F425C44D | Comme Toi (Live)          | Jean-Jacques Goldman | Pop Rock |
+| TRAABVM128F92CA9DC | Caught In A Dream         | Tesla                | Rock     |
+| TRAAABD128F429CF47 | Soul Deep                 | The Box Tops         | Pop_Rock |
+| TRAOSFC128F42618F6 | Here Comes The Big Parade | Harry Connick_ Jr.   | Jazz     |
+================================================================================
+
+🎵 Test Recommendation for: These Days by Ayo (Genre: RnB)
+| track_id           | title                                      | artist_name   | genre   |
+|--------------------|--------------------------------------------|---------------|---------|
+| TRAGNUI128F1471068 | Don't Mess With Me (2006 Digital Remaster) | Whitesnake    | Rock    |
+| TRAUXSO128F42B863C | Spawn (Again)                              | Silverchair   | Rock    |
+| TRAFOKY128F92ED751 | I Did it for You                           | David Cook    | Rock    |
+| TRAIOBB128F146A944 | L'horizon Chimérique                       | Julien Clerc  | Pop     |
+| TRASAIH128F931F567 | Betrayal Is A Symptom                      | Thrice        | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: Everything I Do by Knack (Genre: Pop)
+| track_id           | title                    | artist_name          | genre    |
+|--------------------|--------------------------|----------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)         | Jean-Jacques Goldman | Pop Rock |
+| TRANGCR128F148CF28 | Think About Me           | Sister Hazel         | Rock     |
+| TRAUWRW128F9358C69 | Change Clothes           | Jay-Z                | Rap      |
+| TRARUTP128E0797FC7 | Crawling (Album Version) | Linkin Park          | Rock     |
+| TRAGJYM128F934B753 | All For Nothing          | Since The Flood      | Metal    |
+================================================================================
+
+🎵 Test Recommendation for: Abstracto by Catupecu Machu (Genre: Rock)
+| track_id           | title                            | artist_name          | genre    |
+|--------------------|----------------------------------|----------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)   | Jaci Velasquez       | Rock     |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd     | Rock     |
+| TRAIGSC128F933BBD7 | Printemps                        | Les Ogres De Barback | Jazz     |
+| TRAAABD128F429CF47 | Soul Deep                        | The Box Tops         | Pop_Rock |
+| TRAIBXJ128F4260700 | Scenario                         | A Tribe Called Quest | Rap      |
+================================================================================
+
+🎵 Test Recommendation for: Clap Ur Handz by K-OS (Genre: Rap)
+| track_id           | title                            | artist_name          | genre      |
+|--------------------|----------------------------------|----------------------|------------|
+| TRANWEM128F92D75C4 | Building                         | Funeral For A Friend | Rock       |
+| TRAGWDA128F1473193 | Do It To Me                      | Sasha                | Electronic |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)   | Jaci Velasquez       | Rock       |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd     | Rock       |
+| TRAUXSO128F42B863C | Spawn (Again)                    | Silverchair          | Rock       |
+================================================================================
+
+🎵 Test Recommendation for: Now I Know by Bullethole (Genre: Folk)
+| track_id           | title                          | artist_name              | genre     |
+|--------------------|--------------------------------|--------------------------|-----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock      |
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice                   | Rock      |
+| TRAFOKY128F92ED751 | I Did it for You               | David Cook               | Rock      |
+| TRAJMQE128F9322DDD | Vos No Confiaste               | 2 Minutos                | Rock Punk |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock      |
+================================================================================
+
+🎵 Test Recommendation for: Ich bin jung und brauche das Geld by Eko Fresh feat. G-Style (Genre: Rap)
+| track_id           | title                            | artist_name          | genre    |
+|--------------------|----------------------------------|----------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)   | Jaci Velasquez       | Rock     |
+| TRAIGSC128F933BBD7 | Printemps                        | Les Ogres De Barback | Jazz     |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd     | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)                 | Jean-Jacques Goldman | Pop Rock |
+| TRAIBXJ128F4260700 | Scenario                         | A Tribe Called Quest | Rap      |
+================================================================================
+
+🎵 Test Recommendation for: This Will Be Laughing Week by Ultimate Fakebook (Genre: Pop)
+| track_id           | title                            | artist_name          | genre      |
+|--------------------|----------------------------------|----------------------|------------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)   | Jaci Velasquez       | Rock       |
+| TRAZVYP128F1459AD9 | Star Signs                       | Leona Naess          | Pop        |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd     | Rock       |
+| TRANWEM128F92D75C4 | Building                         | Funeral For A Friend | Rock       |
+| TRAICJQ12903CF2681 | Ghastly Indoctrination           | Dark Fortress        | Rock Metal |
+================================================================================
+
+🎵 Test Recommendation for: Last Thursday (Call Me Crazy) by Carolyn Arends (Genre: Pop)
+| track_id           | title                               | artist_name          | genre     |
+|--------------------|-------------------------------------|----------------------|-----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)      | Jaci Velasquez       | Rock      |
+| TRAJMQE128F9322DDD | Vos No Confiaste                    | 2 Minutos            | Rock Punk |
+| TRAVDQQ128F421B864 | A Fiery Stride (Ltd. Edition Bonus) | Elvenking            | Metal     |
+| TRAIGSC128F933BBD7 | Printemps                           | Les Ogres De Barback | Jazz      |
+| TRAIBXJ128F4260700 | Scenario                            | A Tribe Called Quest | Rap       |
+================================================================================
+
+🎵 Test Recommendation for: Set The World On Fire by Britt Nicole (Genre: Pop)
+| track_id           | title                           | artist_name           | genre    |
+|--------------------|---------------------------------|-----------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez        | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)                | Jean-Jacques Goldman  | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback  | Jazz     |
+| TRASWIV128E0788A84 | Real Love                       | The Smashing Pumpkins | Rock     |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian           | Pop      |
+================================================================================
+
+🎵 Test Recommendation for: Saved (LP Version) by Chris Rodriguez (Genre: Electronic)
+| track_id           | title                          | artist_name              | genre    |
+|--------------------|--------------------------------|--------------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock     |
+| TRAFOKY128F92ED751 | I Did it for You               | David Cook               | Rock     |
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice                   | Rock     |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman     | Pop Rock |
+================================================================================
+
+🎵 Test Recommendation for: The  First Of The Year by Rubyhorse (Genre: Rock)
+| track_id           | title                          | artist_name          | genre      |
+|--------------------|--------------------------------|----------------------|------------|
+| TRAICJQ12903CF2681 | Ghastly Indoctrination         | Dark Fortress        | Rock Metal |
+| TRAFOKY128F92ED751 | I Did it for You               | David Cook           | Rock       |
+| TRAUXSO128F42B863C | Spawn (Again)                  | Silverchair          | Rock       |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman | Pop Rock   |
+| TRAFSLJ128F14913B0 | Would You Like To Take A Walk? | Marion Harris        | Blues      |
+================================================================================
+
+🎵 Test Recommendation for: Frei zu sein by In Extremo (Genre: Metal)
+| track_id           | title                           | artist_name          | genre    |
+|--------------------|---------------------------------|----------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez       | Rock     |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback | Jazz     |
+| TRANJMO128F425C44D | Comme Toi (Live)                | Jean-Jacques Goldman | Pop Rock |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian          | Pop      |
+| TRAGJYM128F934B753 | All For Nothing                 | Since The Flood      | Metal    |
+================================================================================
+
+🎵 Test Recommendation for: Stop! [Demo] by Jane's Addiction (Genre: Metal)
+| track_id           | title                          | artist_name          | genre      |
+|--------------------|--------------------------------|----------------------|------------|
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman | Pop Rock   |
+| TRAICJQ12903CF2681 | Ghastly Indoctrination         | Dark Fortress        | Rock Metal |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz       |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock       |
+| TRAUWRW128F9358C69 | Change Clothes                 | Jay-Z                | Rap        |
+================================================================================
+
+🎵 Test Recommendation for: Brown Girl by John D. Loudermilk (Genre: Rock)
+| track_id           | title                            | artist_name      | genre   |
+|--------------------|----------------------------------|------------------|---------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)   | Jaci Velasquez   | Rock    |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd | Rock    |
+| TRAFOKY128F92ED751 | I Did it for You                 | David Cook       | Rock    |
+| TRAYDYV128F42906E1 | Breakin' It                      | Mindy McCready   | Country |
+| TRANXKN128F1485A3F | What If                          | Alex             | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: Escuchame by Carlos Ponce (Genre: Pop)
+| track_id           | title                           | artist_name          | genre     |
+|--------------------|---------------------------------|----------------------|-----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez       | Rock      |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback | Jazz      |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian          | Pop       |
+| TRAJMQE128F9322DDD | Vos No Confiaste                | 2 Minutos            | Rock Punk |
+| TRAFOKY128F92ED751 | I Did it for You                | David Cook           | Rock      |
+================================================================================
+
+🎵 Test Recommendation for: When A Man Is Wrong (Album Version) by Seal (Genre: Pop)
+| track_id           | title                          | artist_name              | genre    |
+|--------------------|--------------------------------|--------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman     | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback     | Jazz     |
+| TRASWIV128E0788A84 | Real Love                      | The Smashing Pumpkins    | Rock     |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock     |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Looking For Clues by Robert Palmer (Genre: Rock)
+| track_id           | title                            | artist_name          | genre   |
+|--------------------|----------------------------------|----------------------|---------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)   | Jaci Velasquez       | Rock    |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi)  | Lara Fabian          | Pop     |
+| TRAYDYV128F42906E1 | Breakin' It                      | Mindy McCready       | Country |
+| TRAIGSC128F933BBD7 | Printemps                        | Les Ogres De Barback | Jazz    |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd     | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: On The Brink by Dinosaur Jr (Genre: Rock)
+| track_id           | title                            | artist_name          | genre    |
+|--------------------|----------------------------------|----------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)   | Jaci Velasquez       | Rock     |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi)  | Lara Fabian          | Pop      |
+| TRANJMO128F425C44D | Comme Toi (Live)                 | Jean-Jacques Goldman | Pop Rock |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd     | Rock     |
+| TRAIGSC128F933BBD7 | Printemps                        | Les Ogres De Barback | Jazz     |
+================================================================================
+
+🎵 Test Recommendation for: American Dream by Vixen (Genre: Rock)
+| track_id           | title                 | artist_name              | genre    |
+|--------------------|-----------------------|--------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)      | Jean-Jacques Goldman     | Pop Rock |
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice                   | Rock     |
+| TRASWIV128E0788A84 | Real Love             | The Smashing Pumpkins    | Rock     |
+| TRAIGSC128F933BBD7 | Printemps             | Les Ogres De Barback     | Jazz     |
+| TRAQYZI128F4273CF3 | Indian Queen          | Electric Light Orchestra | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: A Goodnight's Sleep by The Starting Line (Genre: Rock)
+| track_id           | title                          | artist_name              | genre    |
+|--------------------|--------------------------------|--------------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock     |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock     |
+| TRASWIV128E0788A84 | Real Love                      | The Smashing Pumpkins    | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman     | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback     | Jazz     |
+================================================================================
+
+🎵 Test Recommendation for: Lachen und weinen by 2raumwohnung (Genre: Pop)
+| track_id           | title                                | artist_name          | genre    |
+|--------------------|--------------------------------------|----------------------|----------|
+| TRAKPSR128F146A1DC | Wildcat Days (1999 Digital Remaster) | Bryan Ferry          | Rock     |
+| TRAAVRJ128F92FF90A | Myth Takes                           | !!!                  | Punk     |
+| TRANJMO128F425C44D | Comme Toi (Live)                     | Jean-Jacques Goldman | Pop Rock |
+| TRARDUI12903CBF6B6 | Autofokus                            | K.I.Z.               | Rap      |
+| TRAROQC128F4273979 | Que Vuelvas                          | Shakira              | Latin    |
+================================================================================
+
+🎵 Test Recommendation for: Follow Your Dreams (The Plan Album Version) by Raze (Genre: Electronic)
+| track_id           | title                          | artist_name          | genre      |
+|--------------------|--------------------------------|----------------------|------------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock       |
+| TRAPCNK128F427D7B5 | You Appearing                  | M83                  | Electronic |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz       |
+| TRAIBXJ128F4260700 | Scenario                       | A Tribe Called Quest | Rap        |
+| TRAJMQE128F9322DDD | Vos No Confiaste               | 2 Minutos            | Rock Punk  |
+================================================================================
+
+🎵 Test Recommendation for: I'm callin by Mr. Sancho (Genre: Rap)
+| track_id           | title                            | artist_name      | genre      |
+|--------------------|----------------------------------|------------------|------------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)   | Jaci Velasquez   | Rock       |
+| TRAPCNK128F427D7B5 | You Appearing                    | M83              | Electronic |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd | Rock       |
+| TRAMMQW128F42621E1 | Oh Serena                        | The Distillers   | Punk       |
+| TRAYDYV128F42906E1 | Breakin' It                      | Mindy McCready   | Country    |
+================================================================================
+
+🎵 Test Recommendation for: Wait Til You See My Smile by Alicia Keys (Genre: RnB)
+| track_id           | title                          | artist_name          | genre    |
+|--------------------|--------------------------------|----------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz     |
+| TRAYDYV128F42906E1 | Breakin' It                    | Mindy McCready       | Country  |
+| TRAYESZ128F1458FAE | The Order Of Death             | Public Image Ltd     | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: With Strength I Burn by Emperor (Genre: Rock Metal)
+| track_id           | title                     | artist_name                       | genre   |
+|--------------------|---------------------------|-----------------------------------|---------|
+| TRASAIH128F931F567 | Betrayal Is A Symptom     | Thrice                            | Rock    |
+| TRAQYZI128F4273CF3 | Indian Queen              | Electric Light Orchestra          | Rock    |
+| TRAPZYB128F9309217 | Ninja Mental              | Illya Kuryaki And The Valderramas | Rock    |
+| TRAEADK128F4270AA6 | Moon Loop (Improvisation) | Porcupine Tree                    | Rock    |
+| TRAUOAA128F4245ECF | It's Good To Know Jesus   | Mississippi Mass Choir            | nan     |
+================================================================================
+
+🎵 Test Recommendation for: Ready For Love by Kelly Sweet (Genre: Pop)
+| track_id           | title                          | artist_name          | genre      |
+|--------------------|--------------------------------|----------------------|------------|
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman | Pop Rock   |
+| TRAICJQ12903CF2681 | Ghastly Indoctrination         | Dark Fortress        | Rock Metal |
+| TRAUXSO128F42B863C | Spawn (Again)                  | Silverchair          | Rock       |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz       |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock       |
+================================================================================
+
+🎵 Test Recommendation for: Pinini Reggae by SUMO (Genre: Metal)
+| track_id           | title                          | artist_name           | genre         |
+|--------------------|--------------------------------|-----------------------|---------------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez        | Rock          |
+| TRAAZQW128F93430DC | Another Long One               | Shawn Colvin          | Pop_Rock Folk |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback  | Jazz          |
+| TRASWIV128E0788A84 | Real Love                      | The Smashing Pumpkins | Rock          |
+| TRAAARJ128F9320760 | Pink World                     | Planet P Project      | Rock          |
+================================================================================
+
+🎵 Test Recommendation for: Games People Play by The Jordanaires (Genre: Country)
+| track_id           | title                           | artist_name          | genre    |
+|--------------------|---------------------------------|----------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)                | Jean-Jacques Goldman | Pop Rock |
+| TRAZJOI12903CDA550 | The Distance                    | Bon Jovi             | Rock     |
+| TRASAIH128F931F567 | Betrayal Is A Symptom           | Thrice               | Rock     |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian          | Pop      |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback | Jazz     |
+================================================================================
+
+🎵 Test Recommendation for: I'm Running Out Of Love by Dolly Parton (Genre: Country)
+| track_id           | title            | artist_name           | genre      |
+|--------------------|------------------|-----------------------|------------|
+| TRANJMO128F425C44D | Comme Toi (Live) | Jean-Jacques Goldman  | Pop Rock   |
+| TRASWIV128E0788A84 | Real Love        | The Smashing Pumpkins | Rock       |
+| TRAIGSC128F933BBD7 | Printemps        | Les Ogres De Barback  | Jazz       |
+| TRAGWDA128F1473193 | Do It To Me      | Sasha                 | Electronic |
+| TRAROQC128F4273979 | Que Vuelvas      | Shakira               | Latin      |
+================================================================================
+
+🎵 Test Recommendation for: Left Behind by The Steeles (Genre: Rock)
+| track_id           | title                                | artist_name              | genre   |
+|--------------------|--------------------------------------|--------------------------|---------|
+| TRAQYZI128F4273CF3 | Indian Queen                         | Electric Light Orchestra | Rock    |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)       | Jaci Velasquez           | Rock    |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live)     | Public Image Ltd         | Rock    |
+| TRALYLQ128F42710D6 | The Devils Crown                                      | KRS-One                  | Rap     |
+| TRAKPSR128F146A1DC | Wildcat Days (1999 Digital Remaster) | Bryan Ferry              | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: Knocked Up by Kings Of Leon (Genre: Rock)
+| track_id           | title                 | artist_name              | genre    |
+|--------------------|-----------------------|--------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)      | Jean-Jacques Goldman     | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps             | Les Ogres De Barback     | Jazz     |
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice                   | Rock     |
+| TRAQYZI128F4273CF3 | Indian Queen          | Electric Light Orchestra | Rock     |
+| TRASWIV128E0788A84 | Real Love             | The Smashing Pumpkins    | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Murderous Style by X-Static (Genre: Electronic)
+| track_id           | title                           | artist_name          | genre         |
+|--------------------|---------------------------------|----------------------|---------------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez       | Rock          |
+| TRAAZQW128F93430DC | Another Long One                | Shawn Colvin         | Pop_Rock Folk |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback | Jazz          |
+| TRAUXSO128F42B863C | Spawn (Again)                   | Silverchair          | Rock          |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian          | Pop           |
+================================================================================
+
+🎵 Test Recommendation for: Exaltation by Matisyahu (Genre: Reggae)
+| track_id           | title                 | artist_name          | genre         |
+|--------------------|-----------------------|----------------------|---------------|
+| TRANJMO128F425C44D | Comme Toi (Live)      | Jean-Jacques Goldman | Pop Rock      |
+| TRAIGSC128F933BBD7 | Printemps             | Les Ogres De Barback | Jazz          |
+| TRAAZQW128F93430DC | Another Long One      | Shawn Colvin         | Pop_Rock Folk |
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice               | Rock          |
+| TRAUXSO128F42B863C | Spawn (Again)         | Silverchair          | Rock          |
+================================================================================
+
+🎵 Test Recommendation for: Song For Love by Extreme (Genre: Rock)
+| track_id           | title                     | artist_name          | genre    |
+|--------------------|---------------------------|----------------------|----------|
+| TRAIGSC128F933BBD7 | Printemps                 | Les Ogres De Barback | Jazz     |
+| TRANJMO128F425C44D | Comme Toi (Live)          | Jean-Jacques Goldman | Pop Rock |
+| TRAAABD128F429CF47 | Soul Deep                 | The Box Tops         | Pop_Rock |
+| TRASAIH128F931F567 | Betrayal Is A Symptom     | Thrice               | Rock     |
+| TRAOSFC128F42618F6 | Here Comes The Big Parade | Harry Connick_ Jr.   | Jazz     |
+================================================================================
+
+🎵 Test Recommendation for: Upon The Shores [Explicit] by Trivium (Genre: Metal)
+| track_id           | title                          | artist_name              | genre      |
+|--------------------|--------------------------------|--------------------------|------------|
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice                   | Rock       |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock       |
+| TRAFOKY128F92ED751 | I Did it for You               | David Cook               | Rock       |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock       |
+| TRAPCNK128F427D7B5 | You Appearing                  | M83                      | Electronic |
+================================================================================
+
+🎵 Test Recommendation for: Rattlesnake! by A Static Lullaby (Genre: Metal)
+| track_id           | title                          | artist_name                       | genre   |
+|--------------------|--------------------------------|-----------------------------------|---------|
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback              | Jazz    |
+| TRAVHIA128F1494B0C | I'll Never Find Another You    | Sonny James                       | Country |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez                    | Rock    |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra          | Rock    |
+| TRAPZYB128F9309217 | Ninja Mental                   | Illya Kuryaki And The Valderramas | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: Night Shift by Ashbrg (Genre: Electronic)
+| track_id           | title                           | artist_name          | genre      |
+|--------------------|---------------------------------|----------------------|------------|
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian          | Pop        |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback | Jazz       |
+| TRANJMO128F425C44D | Comme Toi (Live)                | Jean-Jacques Goldman | Pop Rock   |
+| TRAPCNK128F427D7B5 | You Appearing                   | M83                  | Electronic |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez       | Rock       |
+================================================================================
+
+🎵 Test Recommendation for: Lead Me Lord by The Brooklyn Tabernacle Choir (Genre: Folk)
+| track_id           | title                                            | artist_name                     | genre    |
+|--------------------|--------------------------------------------------|---------------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)                                 | Jean-Jacques Goldman            | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps                                        | Les Ogres De Barback            | Jazz     |
+| TRANIHL128F42970BD | All In A Day (Live @ The Troubadour_ LosAngeles) | The Paul Butterfield Blues Band | Rock     |
+| TRANYLR128F4271924 | How Beautiful (Cry For The Desert Album Version) | Twila Paris                     | Rock     |
+| TRAGJYM128F934B753 | All For Nothing                                  | Since The Flood                 | Metal    |
+================================================================================
+
+🎵 Test Recommendation for: La Mémoire Des Jours by Raphaël (Genre: Pop Rock)
+| track_id           | title            | artist_name           | genre    |
+|--------------------|------------------|-----------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live) | Jean-Jacques Goldman  | Pop Rock |
+| TRASWIV128E0788A84 | Real Love        | The Smashing Pumpkins | Rock     |
+| TRAUWRW128F9358C69 | Change Clothes   | Jay-Z                 | Rap      |
+| TRARDUI12903CBF6B6 | Autofokus        | K.I.Z.                | Rap      |
+| TRAUXSO128F42B863C | Spawn (Again)    | Silverchair           | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: I'll Meet You In The Morning by Barbara Fairchild (Genre: Country)
+| track_id           | title                  | artist_name              | genre      |
+|--------------------|------------------------|--------------------------|------------|
+| TRAICJQ12903CF2681 | Ghastly Indoctrination | Dark Fortress            | Rock Metal |
+| TRAUXSO128F42B863C | Spawn (Again)          | Silverchair              | Rock       |
+| TRAQYZI128F4273CF3 | Indian Queen           | Electric Light Orchestra | Rock       |
+| TRAJMQE128F9322DDD | Vos No Confiaste       | 2 Minutos                | Rock Punk  |
+| TRAIGSC128F933BBD7 | Printemps              | Les Ogres De Barback     | Jazz       |
+================================================================================
+
+🎵 Test Recommendation for: Everyday by Rikk Agnew (Genre: Rock)
+| track_id           | title                          | artist_name          | genre    |
+|--------------------|--------------------------------|----------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman | Pop Rock |
+| TRAIOBB128F146A944 | L'horizon Chimérique           | Julien Clerc         | Pop      |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock     |
+| TRAUONA128F4255A38 | November Has Come              | Gorillaz             | Rock     |
+| TRARUTP128E0797FC7 | Crawling (Album Version)       | Linkin Park          | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: She Can't Burn Me Now by The Del McCoury Band (Genre: Country)
+| track_id           | title                          | artist_name          | genre    |
+|--------------------|--------------------------------|----------------------|----------|
+| TRANGCR128F148CF28 | Think About Me                 | Sister Hazel         | Rock     |
+| TRAUXSO128F42B863C | Spawn (Again)                  | Silverchair          | Rock     |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz     |
+================================================================================
+
+🎵 Test Recommendation for: Going Out Tonight by HardNox (Genre: Rock)
+| track_id           | title                           | artist_name              | genre      |
+|--------------------|---------------------------------|--------------------------|------------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez           | Rock       |
+| TRAQYZI128F4273CF3 | Indian Queen                    | Electric Light Orchestra | Rock       |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian              | Pop        |
+| TRAIBXJ128F4260700 | Scenario                        | A Tribe Called Quest     | Rap        |
+| TRAPCNK128F427D7B5 | You Appearing                   | M83                      | Electronic |
+================================================================================
+
+🎵 Test Recommendation for: Ever Be by Korn (Genre: Pop_Rock)
+| track_id           | title                           | artist_name              | genre   |
+|--------------------|---------------------------------|--------------------------|---------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez           | Rock    |
+| TRASAIH128F931F567 | Betrayal Is A Symptom           | Thrice                   | Rock    |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback     | Jazz    |
+| TRAQYZI128F4273CF3 | Indian Queen                    | Electric Light Orchestra | Rock    |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian              | Pop     |
+================================================================================
+
+🎵 Test Recommendation for: Don't Phunk With My Heart by Java (Genre: Jazz)
+| track_id           | title                           | artist_name          | genre   |
+|--------------------|---------------------------------|----------------------|---------|
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback | Jazz    |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez       | Rock    |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian          | Pop     |
+| TRAFSLJ128F14913B0 | Would You Like To Take A Walk?  | Marion Harris        | Blues   |
+| TRAYESZ128F1458FAE | The Order Of Death              | Public Image Ltd     | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: Hell On Earth (Front Lines) by Mobb Deep (Genre: Rap)
+| track_id           | title                          | artist_name          | genre         |
+|--------------------|--------------------------------|----------------------|---------------|
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice               | Rock          |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock          |
+| TRAAZQW128F93430DC | Another Long One               | Shawn Colvin         | Pop_Rock Folk |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz          |
+| TRAFOKY128F92ED751 | I Did it for You               | David Cook           | Rock          |
+================================================================================
+
+🎵 Test Recommendation for: L'education du corps des porcs by Les Ogres De Barback (Genre: Jazz)
+| track_id           | title            | artist_name              | genre    |
+|--------------------|------------------|--------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live) | Jean-Jacques Goldman     | Pop Rock |
+| TRAQYZI128F4273CF3 | Indian Queen     | Electric Light Orchestra | Rock     |
+| TRASWIV128E0788A84 | Real Love        | The Smashing Pumpkins    | Rock     |
+| TRAHCHN128F4276D58 | Somos Gitanos    | Gipsy Kings              | Folk     |
+| TRAUWRW128F9358C69 | Change Clothes   | Jay-Z                    | Rap      |
+================================================================================
+
+🎵 Test Recommendation for: Evenfall by Dark Fortress (Genre: Metal)
+| track_id           | title                          | artist_name              | genre   |
+|--------------------|--------------------------------|--------------------------|---------|
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback     | Jazz    |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock    |
+| TRAFOKY128F92ED751 | I Did it for You               | David Cook               | Rock    |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock    |
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice                   | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: Change Your Mind by KMD (Genre: Jazz)
+| track_id           | title                          | artist_name              | genre     |
+|--------------------|--------------------------------|--------------------------|-----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock      |
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice                   | Rock      |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback     | Jazz      |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock      |
+| TRAJMQE128F9322DDD | Vos No Confiaste               | 2 Minutos                | Rock Punk |
+================================================================================
+
+🎵 Test Recommendation for: You And Your Heart by Jack Johnson (Genre: Rock)
+| track_id           | title            | artist_name           | genre    |
+|--------------------|------------------|-----------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live) | Jean-Jacques Goldman  | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps        | Les Ogres De Barback  | Jazz     |
+| TRANGCR128F148CF28 | Think About Me   | Sister Hazel          | Rock     |
+| TRASWIV128E0788A84 | Real Love        | The Smashing Pumpkins | Rock     |
+| TRAFOKY128F92ED751 | I Did it for You | David Cook            | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Cancion De Amor by 2 Minutos (Genre: Rock Punk)
+| track_id           | title                          | artist_name          | genre     |
+|--------------------|--------------------------------|----------------------|-----------|
+| TRAJMQE128F9322DDD | Vos No Confiaste               | 2 Minutos            | Rock Punk |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock      |
+| TRAYDYV128F42906E1 | Breakin' It                    | Mindy McCready       | Country   |
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice               | Rock      |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz      |
+================================================================================
+
+🎵 Test Recommendation for: Lillie Anne by Chalk Farm (Genre: Rock)
+| track_id           | title            | artist_name              | genre    |
+|--------------------|------------------|--------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live) | Jean-Jacques Goldman     | Pop Rock |
+| TRARDUI12903CBF6B6 | Autofokus        | K.I.Z.                   | Rap      |
+| TRAIGSC128F933BBD7 | Printemps        | Les Ogres De Barback     | Jazz     |
+| TRAQYZI128F4273CF3 | Indian Queen     | Electric Light Orchestra | Rock     |
+| TRAHCHN128F4276D58 | Somos Gitanos    | Gipsy Kings              | Folk     |
+================================================================================
+
+🎵 Test Recommendation for: Ma' Be Easy [Explicit Version] by Fabolous (Genre: Rap)
+| track_id           | title                          | artist_name                      | genre      |
+|--------------------|--------------------------------|----------------------------------|------------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez                   | Rock       |
+| TRALYLQ128F42710D6 | The Devils Crown                                | KRS-One                          | Rap        |
+| TRARKEH128F1463CB2 | Delilah                        | The Sensational Alex Harvey Band | Rock       |
+| TRAPCNK128F427D7B5 | You Appearing                  | M83                              | Electronic |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback             | Jazz       |
+================================================================================
+
+🎵 Test Recommendation for: Wanna Hurt Mase? (Album Version) by Mase (Genre: Rap)
+| track_id           | title                          | artist_name          | genre   |
+|--------------------|--------------------------------|----------------------|---------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock    |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz    |
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice               | Rock    |
+| TRAFOKY128F92ED751 | I Did it for You               | David Cook           | Rock    |
+| TRAEADK128F4270AA6 | Moon Loop (Improvisation)      | Porcupine Tree       | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: Good Day by Britt Nicole (Genre: Pop)
+| track_id           | title                           | artist_name          | genre     |
+|--------------------|---------------------------------|----------------------|-----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez       | Rock      |
+| TRANWEM128F92D75C4 | Building                        | Funeral For A Friend | Rock      |
+| TRAJMQE128F9322DDD | Vos No Confiaste                | 2 Minutos            | Rock Punk |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian          | Pop       |
+| TRAAABD128F429CF47 | Soul Deep                       | The Box Tops         | Pop_Rock  |
+================================================================================
+
+🎵 Test Recommendation for: Feel It Boy (Deep Dish Danchall Remix) (Feat. Janet Jackson) by Beenie Man Featuring Janet Jackson (Genre: Reggae)
+| track_id           | title                           | artist_name                      | genre      |
+|--------------------|---------------------------------|----------------------------------|------------|
+| TRAPCNK128F427D7B5 | You Appearing                   | M83                              | Electronic |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian                      | Pop        |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback             | Jazz       |
+| TRARKEH128F1463CB2 | Delilah                         | The Sensational Alex Harvey Band | Rock       |
+| TRALOUF128F422F329 | BLEEDS NO MORE (Live Version)   | Silverstein                      | Punk       |
+================================================================================
+
+🎵 Test Recommendation for: The Modern World by The Jam (Genre: Rock Punk)
+| track_id           | title                           | artist_name          | genre         |
+|--------------------|---------------------------------|----------------------|---------------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez       | Rock          |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian          | Pop           |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback | Jazz          |
+| TRAAZQW128F93430DC | Another Long One                | Shawn Colvin         | Pop_Rock Folk |
+| TRAJMQE128F9322DDD | Vos No Confiaste                | 2 Minutos            | Rock Punk     |
+================================================================================
+
+🎵 Test Recommendation for: Young Riders by Hot Boys (Genre: Rap)
+| track_id           | title                            | artist_name                      | genre      |
+|--------------------|----------------------------------|----------------------------------|------------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)   | Jaci Velasquez                   | Rock       |
+| TRAPCNK128F427D7B5 | You Appearing                    | M83                              | Electronic |
+| TRARKEH128F1463CB2 | Delilah                          | The Sensational Alex Harvey Band | Rock       |
+| TRAABVM128F92CA9DC | Caught In A Dream                | Tesla                            | Rock       |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd                 | Rock       |
+================================================================================
+
+🎵 Test Recommendation for: Give It To 'Em by Chops (Genre: Rap)
+| track_id           | title                           | artist_name                      | genre      |
+|--------------------|---------------------------------|----------------------------------|------------|
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback             | Jazz       |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez                   | Rock       |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian                      | Pop        |
+| TRAPCNK128F427D7B5 | You Appearing                   | M83                              | Electronic |
+| TRARKEH128F1463CB2 | Delilah                         | The Sensational Alex Harvey Band | Rock       |
+================================================================================
+
+🎵 Test Recommendation for: Niggas Die 4 Me by Drag-On / DMX (Genre: Rap)
+| track_id           | title                            | artist_name      | genre      |
+|--------------------|----------------------------------|------------------|------------|
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd | Rock       |
+| TRAPCNK128F427D7B5 | You Appearing                    | M83              | Electronic |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)   | Jaci Velasquez   | Rock       |
+| TRAABVM128F92CA9DC | Caught In A Dream                | Tesla            | Rock       |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi)  | Lara Fabian      | Pop        |
+================================================================================
+
+🎵 Test Recommendation for: Rompan Todo by 2 Minutos (Genre: Punk)
+| track_id           | title                           | artist_name               | genre     |
+|--------------------|---------------------------------|---------------------------|-----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez            | Rock      |
+| TRAJMQE128F9322DDD | Vos No Confiaste                | 2 Minutos                 | Rock Punk |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian               | Pop       |
+| TRAQYZI128F4273CF3 | Indian Queen                    | Electric Light Orchestra  | Rock      |
+| TRAYPMR128E0785DD1 | Loverman                        | Nick Cave & The Bad Seeds | Rock      |
+================================================================================
+
+🎵 Test Recommendation for: The Day After (featuring Syleena Johnson) (Explicit Chopped & Screwed Version) by Twista (Genre: Rap)
+| track_id           | title                          | artist_name          | genre   |
+|--------------------|--------------------------------|----------------------|---------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock    |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz    |
+| TRAIBXJ128F4260700 | Scenario                       | A Tribe Called Quest | Rap     |
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice               | Rock    |
+| TRAJFMH12903D052DC | La mujer que no sone (Album)   | Ricardo Arjona       | Latin   |
+================================================================================
+
+🎵 Test Recommendation for: I'll Sweat You (LP Version) by Mista (Genre: Rock)
+| track_id           | title                          | artist_name              | genre      |
+|--------------------|--------------------------------|--------------------------|------------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock       |
+| TRAJMQE128F9322DDD | Vos No Confiaste               | 2 Minutos                | Rock Punk  |
+| TRAPCNK128F427D7B5 | You Appearing                  | M83                      | Electronic |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock       |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman     | Pop Rock   |
+================================================================================
+
+🎵 Test Recommendation for: When The Levee Breaks by W.A.S.P. (Genre: Rock Metal)
+| track_id           | title                 | artist_name           | genre      |
+|--------------------|-----------------------|-----------------------|------------|
+| TRANJMO128F425C44D | Comme Toi (Live)      | Jean-Jacques Goldman  | Pop Rock   |
+| TRAROQC128F4273979 | Que Vuelvas           | Shakira               | Latin      |
+| TRASWIV128E0788A84 | Real Love             | The Smashing Pumpkins | Rock       |
+| TRAGWDA128F1473193 | Do It To Me           | Sasha                 | Electronic |
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice                | Rock       |
+================================================================================
+
+🎵 Test Recommendation for: Christlike Roche by The Roches (Genre: Pop)
+| track_id           | title                                            | artist_name                     | genre    |
+|--------------------|--------------------------------------------------|---------------------------------|----------|
+| TRAUXSO128F42B863C | Spawn (Again)                                    | Silverchair                     | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)                                 | Jean-Jacques Goldman            | Pop Rock |
+| TRAGNUI128F1471068 | Don't Mess With Me (2006 Digital Remaster)       | Whitesnake                      | Rock     |
+| TRANIHL128F42970BD | All In A Day (Live @ The Troubadour_ LosAngeles) | The Paul Butterfield Blues Band | Rock     |
+| TRAEPAC12903CE5DC8 | Let's Go                                         | Ray Charles                     | Blues    |
+================================================================================
+
+🎵 Test Recommendation for: She's So Young by Pursuit Of Happiness (Genre: Rock)
+| track_id           | title                    | artist_name                       | genre   |
+|--------------------|--------------------------|-----------------------------------|---------|
+| TRASAIH128F931F567 | Betrayal Is A Symptom    | Thrice                            | Rock    |
+| TRAQYZI128F4273CF3 | Indian Queen             | Electric Light Orchestra          | Rock    |
+| TRARUTP128E0797FC7 | Crawling (Album Version) | Linkin Park                       | Rock    |
+| TRAGJYM128F934B753 | All For Nothing          | Since The Flood                   | Metal   |
+| TRAPZYB128F9309217 | Ninja Mental             | Illya Kuryaki And The Valderramas | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: Mostly Tha Voice (Explicit) by Gang Starr (Genre: Jazz)
+| track_id           | title                         | artist_name          | genre         |
+|--------------------|-------------------------------|----------------------|---------------|
+| TRAAZQW128F93430DC | Another Long One              | Shawn Colvin         | Pop_Rock Folk |
+| TRAIGSC128F933BBD7 | Printemps                     | Les Ogres De Barback | Jazz          |
+| TRATAIB128F92E81CB | Moisture                      | Dishwalla            | Rock          |
+| TRAFOKY128F92ED751 | I Did it for You              | David Cook           | Rock          |
+| TRALOUF128F422F329 | BLEEDS NO MORE (Live Version) | Silverstein          | Punk          |
+================================================================================
+
+🎵 Test Recommendation for: What's Wrong by Lost Boyz (Genre: Rap)
+| track_id           | title                                | artist_name          | genre    |
+|--------------------|--------------------------------------|----------------------|----------|
+| TRAIGSC128F933BBD7 | Printemps                            | Les Ogres De Barback | Jazz     |
+| TRAROQC128F4273979 | Que Vuelvas                          | Shakira              | Latin    |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)       | Jaci Velasquez       | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)                     | Jean-Jacques Goldman | Pop Rock |
+| TRAKPSR128F146A1DC | Wildcat Days (1999 Digital Remaster) | Bryan Ferry          | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Love Lifted Me by Eddy Raven (Genre: Rock)
+| track_id           | title                          | artist_name          | genre    |
+|--------------------|--------------------------------|----------------------|----------|
+| TRARUTP128E0797FC7 | Crawling (Album Version)       | Linkin Park          | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman | Pop Rock |
+| TRANGCR128F148CF28 | Think About Me                 | Sister Hazel         | Rock     |
+| TRAFOKY128F92ED751 | I Did it for You               | David Cook           | Rock     |
+| TRAFSLJ128F14913B0 | Would You Like To Take A Walk? | Marion Harris        | Blues    |
+================================================================================
+
+🎵 Test Recommendation for: Baile Da Pesada by Bangalafumenga (Genre: Pop)
+| track_id           | title                     | artist_name          | genre      |
+|--------------------|---------------------------|----------------------|------------|
+| TRAPCNK128F427D7B5 | You Appearing             | M83                  | Electronic |
+| TRAOSFC128F42618F6 | Here Comes The Big Parade | Harry Connick_ Jr.   | Jazz       |
+| TRAHCHN128F4276D58 | Somos Gitanos             | Gipsy Kings          | Folk       |
+| TRAIGSC128F933BBD7 | Printemps                 | Les Ogres De Barback | Jazz       |
+| TRAAARJ128F9320760 | Pink World                | Planet P Project     | Rock       |
+================================================================================
+
+🎵 Test Recommendation for: More than War by YZ (Genre: Rap)
+| track_id           | title                            | artist_name          | genre      |
+|--------------------|----------------------------------|----------------------|------------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)   | Jaci Velasquez       | Rock       |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd     | Rock       |
+| TRAPCNK128F427D7B5 | You Appearing                    | M83                  | Electronic |
+| TRAIGSC128F933BBD7 | Printemps                        | Les Ogres De Barback | Jazz       |
+| TRAHCHN128F4276D58 | Somos Gitanos                    | Gipsy Kings          | Folk       |
+================================================================================
+
+🎵 Test Recommendation for: Valentin Alsina by 2 Minutos (Genre: Rock Punk)
+| track_id           | title                          | artist_name              | genre     |
+|--------------------|--------------------------------|--------------------------|-----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock      |
+| TRAJMQE128F9322DDD | Vos No Confiaste               | 2 Minutos                | Rock Punk |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock      |
+| TRAXPHE128F92F4100 | The Hunter                     | Paul Rogers              | Blues     |
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice                   | Rock      |
+================================================================================
+
+🎵 Test Recommendation for: Intro by Styles P (Genre: Rap)
+| track_id           | title                 | artist_name                       | genre    |
+|--------------------|-----------------------|-----------------------------------|----------|
+| TRAIGSC128F933BBD7 | Printemps             | Les Ogres De Barback              | Jazz     |
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice                            | Rock     |
+| TRAQYZI128F4273CF3 | Indian Queen          | Electric Light Orchestra          | Rock     |
+| TRAPZYB128F9309217 | Ninja Mental          | Illya Kuryaki And The Valderramas | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)      | Jean-Jacques Goldman              | Pop Rock |
+================================================================================
+
+🎵 Test Recommendation for: Unleashed by Warren Barfield (Genre: Rock)
+| track_id           | title                          | artist_name              | genre    |
+|--------------------|--------------------------------|--------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman     | Pop Rock |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock     |
+| TRASWIV128E0788A84 | Real Love                      | The Smashing Pumpkins    | Rock     |
+| TRAUXSO128F42B863C | Spawn (Again)                  | Silverchair              | Rock     |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Cierro Mis Ojos by Raphael (Genre: Pop Rock)
+| track_id           | title                          | artist_name           | genre    |
+|--------------------|--------------------------------|-----------------------|----------|
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback  | Jazz     |
+| TRASWIV128E0788A84 | Real Love                      | The Smashing Pumpkins | Rock     |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez        | Rock     |
+| TRAUXSO128F42B863C | Spawn (Again)                  | Silverchair           | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman  | Pop Rock |
+================================================================================
+
+🎵 Test Recommendation for: Christe Eleison (Christ Have Mercy) (Center Of My Universe Album Version) by Michelle Tumes (Genre: Rock)
+| track_id           | title                           | artist_name          | genre      |
+|--------------------|---------------------------------|----------------------|------------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez       | Rock       |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian          | Pop        |
+| TRAPCNK128F427D7B5 | You Appearing                   | M83                  | Electronic |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback | Jazz       |
+| TRAJMQE128F9322DDD | Vos No Confiaste                | 2 Minutos            | Rock Punk  |
+================================================================================
+
+🎵 Test Recommendation for: A Dustland Fairytale by The Killers (Genre: Rock)
+| track_id           | title                 | artist_name          | genre     |
+|--------------------|-----------------------|----------------------|-----------|
+| TRANJMO128F425C44D | Comme Toi (Live)      | Jean-Jacques Goldman | Pop Rock  |
+| TRAIGSC128F933BBD7 | Printemps             | Les Ogres De Barback | Jazz      |
+| TRAJMQE128F9322DDD | Vos No Confiaste      | 2 Minutos            | Rock Punk |
+| TRAIBXJ128F4260700 | Scenario              | A Tribe Called Quest | Rap       |
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice               | Rock      |
+================================================================================
+
+🎵 Test Recommendation for: Y'all Can't Never Hurt Us (Clean Version) by Philly's Most Wanted (Genre: Rap)
+| track_id           | title             | artist_name                       | genre      |
+|--------------------|-------------------|-----------------------------------|------------|
+| TRANJMO128F425C44D | Comme Toi (Live)  | Jean-Jacques Goldman              | Pop Rock   |
+| TRAABVM128F92CA9DC | Caught In A Dream | Tesla                             | Rock       |
+| TRAPZYB128F9309217 | Ninja Mental      | Illya Kuryaki And The Valderramas | Rock       |
+| TRAGWDA128F1473193 | Do It To Me       | Sasha                             | Electronic |
+| TRAIGSC128F933BBD7 | Printemps         | Les Ogres De Barback              | Jazz       |
+================================================================================
+
+🎵 Test Recommendation for: When Tomorrow Hits (Album) by Mudhoney (Genre: Rock)
+| track_id           | title                    | artist_name               | genre    |
+|--------------------|--------------------------|---------------------------|----------|
+| TRASAIH128F931F567 | Betrayal Is A Symptom    | Thrice                    | Rock     |
+| TRARUTP128E0797FC7 | Crawling (Album Version) | Linkin Park               | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)         | Jean-Jacques Goldman      | Pop Rock |
+| TRAVYVD128F4237876 | Esquilo não samba        | Móveis Coloniais de Acaju | Metal    |
+| TRAIZUC12903CBBEAC | Engel                    | Der Plan                  | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: They Say (Album) by Jupiter Rising (Genre: Rap)
+| track_id           | title                          | artist_name          | genre      |
+|--------------------|--------------------------------|----------------------|------------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock       |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz       |
+| TRAJMQE128F9322DDD | Vos No Confiaste               | 2 Minutos            | Rock Punk  |
+| TRAOSFC128F42618F6 | Here Comes The Big Parade      | Harry Connick_ Jr.   | Jazz       |
+| TRAPCNK128F427D7B5 | You Appearing                  | M83                  | Electronic |
+================================================================================
+
+🎵 Test Recommendation for: Look Me In The Eye by Margaret Becker (Genre: Reggae)
+| track_id           | title                          | artist_name          | genre    |
+|--------------------|--------------------------------|----------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock     |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz     |
+| TRAFOKY128F92ED751 | I Did it for You               | David Cook           | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman | Pop Rock |
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice               | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Love Can Run Faster by Robert Palmer (Genre: Rock)
+| track_id           | title                 | artist_name              | genre    |
+|--------------------|-----------------------|--------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)      | Jean-Jacques Goldman     | Pop Rock |
+| TRAUXSO128F42B863C | Spawn (Again)         | Silverchair              | Rock     |
+| TRAQYZI128F4273CF3 | Indian Queen          | Electric Light Orchestra | Rock     |
+| TRARDUI12903CBF6B6 | Autofokus             | K.I.Z.                   | Rap      |
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice                   | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: On Tha Rox by King Tee (Genre: Rap)
+| track_id           | title                 | artist_name          | genre      |
+|--------------------|-----------------------|----------------------|------------|
+| TRAIGSC128F933BBD7 | Printemps             | Les Ogres De Barback | Jazz       |
+| TRAPCNK128F427D7B5 | You Appearing         | M83                  | Electronic |
+| TRASCAU128E078FB37 | What's Wrong          | Lost Boyz            | Rap        |
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice               | Rock       |
+| TRAAARJ128F9320760 | Pink World            | Planet P Project     | Rock       |
+================================================================================
+
+🎵 Test Recommendation for: Cooler Than You by Diesel Boy (Genre: Pop Rock)
+| track_id           | title                           | artist_name              | genre    |
+|--------------------|---------------------------------|--------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)                | Jean-Jacques Goldman     | Pop Rock |
+| TRAQYZI128F4273CF3 | Indian Queen                    | Electric Light Orchestra | Rock     |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez           | Rock     |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian              | Pop      |
+| TRASAIH128F931F567 | Betrayal Is A Symptom           | Thrice                   | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Forgiveness by Goldfinger (Genre: Rock Punk)
+| track_id           | title                          | artist_name          | genre     |
+|--------------------|--------------------------------|----------------------|-----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock      |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz      |
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice               | Rock      |
+| TRAFOKY128F92ED751 | I Did it for You               | David Cook           | Rock      |
+| TRAJMQE128F9322DDD | Vos No Confiaste               | 2 Minutos            | Rock Punk |
+================================================================================
+
+🎵 Test Recommendation for: Whitfield by Atomship (Genre: Rock)
+| track_id           | title                          | artist_name          | genre     |
+|--------------------|--------------------------------|----------------------|-----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock      |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz      |
+| TRAJMQE128F9322DDD | Vos No Confiaste               | 2 Minutos            | Rock Punk |
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice               | Rock      |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman | Pop Rock  |
+================================================================================
+
+🎵 Test Recommendation for: Her Golden Robe In Silence Veiled by Autumnblaze (Genre: Rock Metal)
+| track_id           | title                          | artist_name              | genre    |
+|--------------------|--------------------------------|--------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman     | Pop Rock |
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice                   | Rock     |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock     |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock     |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback     | Jazz     |
+================================================================================
+
+🎵 Test Recommendation for: La vie d'artiste by Michèle Arnaud (Genre: Pop)
+| track_id           | title                     | artist_name           | genre    |
+|--------------------|---------------------------|-----------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)          | Jean-Jacques Goldman  | Pop Rock |
+| TRAUXSO128F42B863C | Spawn (Again)             | Silverchair           | Rock     |
+| TRAIGSC128F933BBD7 | Printemps                 | Les Ogres De Barback  | Jazz     |
+| TRAOSFC128F42618F6 | Here Comes The Big Parade | Harry Connick_ Jr.    | Jazz     |
+| TRASWIV128E0788A84 | Real Love                 | The Smashing Pumpkins | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Posterchild for Tragedy by Sugarbomb (Genre: Rock)
+| track_id           | title                          | artist_name              | genre    |
+|--------------------|--------------------------------|--------------------------|----------|
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback     | Jazz     |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock     |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman     | Pop Rock |
+| TRAYESZ128F1458FAE | The Order Of Death             | Public Image Ltd         | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Intro/Chamber The Cartridge by Rise Against (Genre: Rock)
+| track_id           | title                           | artist_name                       | genre    |
+|--------------------|---------------------------------|-----------------------------------|----------|
+| TRAQYZI128F4273CF3 | Indian Queen                    | Electric Light Orchestra          | Rock     |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback              | Jazz     |
+| TRAPZYB128F9309217 | Ninja Mental                    | Illya Kuryaki And The Valderramas | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)                | Jean-Jacques Goldman              | Pop Rock |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian                       | Pop      |
+================================================================================
+
+🎵 Test Recommendation for: Procession by Vangelis (Genre: Rock)
+| track_id           | title                 | artist_name              | genre    |
+|--------------------|-----------------------|--------------------------|----------|
+| TRAQYZI128F4273CF3 | Indian Queen          | Electric Light Orchestra | Rock     |
+| TRASWIV128E0788A84 | Real Love             | The Smashing Pumpkins    | Rock     |
+| TRAIOBB128F146A944 | L'horizon Chimérique  | Julien Clerc             | Pop      |
+| TRANJMO128F425C44D | Comme Toi (Live)      | Jean-Jacques Goldman     | Pop Rock |
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice                   | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Stay With Me by Faces (Genre: Rock)
+| track_id           | title                 | artist_name              | genre    |
+|--------------------|-----------------------|--------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)      | Jean-Jacques Goldman     | Pop Rock |
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice                   | Rock     |
+| TRAIGSC128F933BBD7 | Printemps             | Les Ogres De Barback     | Jazz     |
+| TRAQYZI128F4273CF3 | Indian Queen          | Electric Light Orchestra | Rock     |
+| TRAROQC128F4273979 | Que Vuelvas           | Shakira                  | Latin    |
+================================================================================
+
+🎵 Test Recommendation for: Le Zoo De Vincennes by Benabar (Genre: Pop Rock)
+| track_id           | title                          | artist_name              | genre    |
+|--------------------|--------------------------------|--------------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman     | Pop Rock |
+| TRAFOKY128F92ED751 | I Did it for You               | David Cook               | Rock     |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock     |
+| TRAUXSO128F42B863C | Spawn (Again)                  | Silverchair              | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Hypergasm by Chaotica (Genre: Rock)
+| track_id           | title                           | artist_name              | genre     |
+|--------------------|---------------------------------|--------------------------|-----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez           | Rock      |
+| TRAQYZI128F4273CF3 | Indian Queen                    | Electric Light Orchestra | Rock      |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian              | Pop       |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback     | Jazz      |
+| TRAJMQE128F9322DDD | Vos No Confiaste                | 2 Minutos                | Rock Punk |
+================================================================================
+
+🎵 Test Recommendation for: A Sound That Only You Can Hear by K's Choice (Genre: Rock)
+| track_id           | title                          | artist_name          | genre   |
+|--------------------|--------------------------------|----------------------|---------|
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz    |
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice               | Rock    |
+| TRALLQJ128F933C68A | Killed By Love                 | Pursuit Of Happiness | Rock    |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock    |
+| TRAGJYM128F934B753 | All For Nothing                | Since The Flood      | Metal   |
+================================================================================
+
+🎵 Test Recommendation for: Going Under by Devo (Genre: Rock)
+| track_id           | title                 | artist_name          | genre      |
+|--------------------|-----------------------|----------------------|------------|
+| TRAUXSO128F42B863C | Spawn (Again)         | Silverchair          | Rock       |
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice               | Rock       |
+| TRANJMO128F425C44D | Comme Toi (Live)      | Jean-Jacques Goldman | Pop Rock   |
+| TRAYDYV128F42906E1 | Breakin' It           | Mindy McCready       | Country    |
+| TRAGWDA128F1473193 | Do It To Me           | Sasha                | Electronic |
+================================================================================
+
+🎵 Test Recommendation for: Take Your Fingers From My Hair  (LP Version) by Zebra (Genre: Metal)
+| track_id           | title            | artist_name              | genre    |
+|--------------------|------------------|--------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live) | Jean-Jacques Goldman     | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps        | Les Ogres De Barback     | Jazz     |
+| TRAQYZI128F4273CF3 | Indian Queen     | Electric Light Orchestra | Rock     |
+| TRASWIV128E0788A84 | Real Love        | The Smashing Pumpkins    | Rock     |
+| TRAGJYM128F934B753 | All For Nothing  | Since The Flood          | Metal    |
+================================================================================
+
+🎵 Test Recommendation for: No Hace Falta Que Lo Digas by Alejandro Lerner (Genre: Pop Rock)
+| track_id           | title                            | artist_name           | genre    |
+|--------------------|----------------------------------|-----------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)                 | Jean-Jacques Goldman  | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps                        | Les Ogres De Barback  | Jazz     |
+| TRAGJYM128F934B753 | All For Nothing                  | Since The Flood       | Metal    |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd      | Rock     |
+| TRASWIV128E0788A84 | Real Love                        | The Smashing Pumpkins | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Suicide by Redman (Genre: Rap)
+| track_id           | title                 | artist_name                       | genre   |
+|--------------------|-----------------------|-----------------------------------|---------|
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice                            | Rock    |
+| TRAIGSC128F933BBD7 | Printemps             | Les Ogres De Barback              | Jazz    |
+| TRAQYZI128F4273CF3 | Indian Queen          | Electric Light Orchestra          | Rock    |
+| TRAPZYB128F9309217 | Ninja Mental          | Illya Kuryaki And The Valderramas | Rock    |
+| TRAFOKY128F92ED751 | I Did it for You      | David Cook                        | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: Police Opression by Bruisers (Genre: Punk)
+| track_id           | title                          | artist_name          | genre    |
+|--------------------|--------------------------------|----------------------|----------|
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice               | Rock     |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz     |
+| TRAGJYM128F934B753 | All For Nothing                | Since The Flood      | Metal    |
+================================================================================
+
+🎵 Test Recommendation for: Heaven's In New York by Wyclef Jean (Genre: Rap)
+| track_id           | title                          | artist_name           | genre    |
+|--------------------|--------------------------------|-----------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez        | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman  | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback  | Jazz     |
+| TRAIBXJ128F4260700 | Scenario                       | A Tribe Called Quest  | Rap      |
+| TRASWIV128E0788A84 | Real Love                      | The Smashing Pumpkins | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: There Will Be Blood Tonight by Lizzy Borden (Genre: Rock Metal)
+| track_id           | title                               | artist_name              | genre      |
+|--------------------|-------------------------------------|--------------------------|------------|
+| TRANJMO128F425C44D | Comme Toi (Live)                    | Jean-Jacques Goldman     | Pop Rock   |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)      | Jaci Velasquez           | Rock       |
+| TRAVDQQ128F421B864 | A Fiery Stride (Ltd. Edition Bonus) | Elvenking                | Metal      |
+| TRAQYZI128F4273CF3 | Indian Queen                        | Electric Light Orchestra | Rock       |
+| TRAPCNK128F427D7B5 | You Appearing                       | M83                      | Electronic |
+================================================================================
+
+🎵 Test Recommendation for: Won Threw Ate by Story Of The Year (Genre: Rock Metal)
+| track_id           | title                          | artist_name                       | genre   |
+|--------------------|--------------------------------|-----------------------------------|---------|
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback              | Jazz    |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra          | Rock    |
+| TRASWIV128E0788A84 | Real Love                      | The Smashing Pumpkins             | Rock    |
+| TRAPZYB128F9309217 | Ninja Mental                   | Illya Kuryaki And The Valderramas | Rock    |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez                    | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: Certain Things We Do by Lost Boyz (Genre: Rap)
+| track_id           | title                                | artist_name          | genre         |
+|--------------------|--------------------------------------|----------------------|---------------|
+| TRASAIH128F931F567 | Betrayal Is A Symptom                | Thrice               | Rock          |
+| TRAIGSC128F933BBD7 | Printemps                            | Les Ogres De Barback | Jazz          |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)       | Jaci Velasquez       | Rock          |
+| TRAAZQW128F93430DC | Another Long One                     | Shawn Colvin         | Pop_Rock Folk |
+| TRAKPSR128F146A1DC | Wildcat Days (1999 Digital Remaster) | Bryan Ferry          | Rock          |
+================================================================================
+
+🎵 Test Recommendation for: Stand by Pedro Aznar (Genre: Jazz)
+| track_id           | title                          | artist_name          | genre     |
+|--------------------|--------------------------------|----------------------|-----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock      |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz      |
+| TRAIBXJ128F4260700 | Scenario                       | A Tribe Called Quest | Rap       |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman | Pop Rock  |
+| TRAJMQE128F9322DDD | Vos No Confiaste               | 2 Minutos            | Rock Punk |
+================================================================================
+
+🎵 Test Recommendation for: Muh- F***a by Redman (Genre: Rap)
+| track_id           | title                     | artist_name          | genre   |
+|--------------------|---------------------------|----------------------|---------|
+| TRAABVM128F92CA9DC | Caught In A Dream         | Tesla                | Rock    |
+| TRAROQC128F4273979 | Que Vuelvas               | Shakira              | Latin   |
+| TRAQDSN128F42934A2 | Posterchild for Tragedy   | Sugarbomb            | Rock    |
+| TRANWEM128F92D75C4 | Building                  | Funeral For A Friend | Rock    |
+| TRAQSEG128F9327EB9 | All Your Love [Live 1999] | Gary Moore           | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: Is It You? by Lee Ritenour (Genre: Jazz)
+| track_id           | title                            | artist_name          | genre   |
+|--------------------|----------------------------------|----------------------|---------|
+| TRAUXSO128F42B863C | Spawn (Again)                    | Silverchair          | Rock    |
+| TRAIGSC128F933BBD7 | Printemps                        | Les Ogres De Barback | Jazz    |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd     | Rock    |
+| TRAYDYV128F42906E1 | Breakin' It                      | Mindy McCready       | Country |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)   | Jaci Velasquez       | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: September Song by Tony Martin (Genre: Metal)
+| track_id           | title                            | artist_name          | genre    |
+|--------------------|----------------------------------|----------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)   | Jaci Velasquez       | Rock     |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd     | Rock     |
+| TRAOSFC128F42618F6 | Here Comes The Big Parade        | Harry Connick_ Jr.   | Jazz     |
+| TRAYDYV128F42906E1 | Breakin' It                      | Mindy McCready       | Country  |
+| TRANJMO128F425C44D | Comme Toi (Live)                 | Jean-Jacques Goldman | Pop Rock |
+================================================================================
+
+🎵 Test Recommendation for: Le poulet by Pierre Perret (Genre: Electronic)
+| track_id           | title                            | artist_name                      | genre      |
+|--------------------|----------------------------------|----------------------------------|------------|
+| TRAPCNK128F427D7B5 | You Appearing                    | M83                              | Electronic |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi)  | Lara Fabian                      | Pop        |
+| TRAQYZI128F4273CF3 | Indian Queen                     | Electric Light Orchestra         | Rock       |
+| TRARKEH128F1463CB2 | Delilah                          | The Sensational Alex Harvey Band | Rock       |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd                 | Rock       |
+================================================================================
+
+🎵 Test Recommendation for: Between Me & You Kid (Album Version) by Mudhoney (Genre: Rock)
+| track_id           | title                     | artist_name              | genre         |
+|--------------------|---------------------------|--------------------------|---------------|
+| TRASAIH128F931F567 | Betrayal Is A Symptom     | Thrice                   | Rock          |
+| TRAQYZI128F4273CF3 | Indian Queen              | Electric Light Orchestra | Rock          |
+| TRAEADK128F4270AA6 | Moon Loop (Improvisation) | Porcupine Tree           | Rock          |
+| TRAAZQW128F93430DC | Another Long One          | Shawn Colvin             | Pop_Rock Folk |
+| TRAQAMG128F934AED9 | Slap U Around             | GWAR                     | Rock          |
+================================================================================
+
+🎵 Test Recommendation for: Georgia by Cartel (Genre: Rock)
+| track_id           | title                           | artist_name          | genre     |
+|--------------------|---------------------------------|----------------------|-----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez       | Rock      |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback | Jazz      |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian          | Pop       |
+| TRAJMQE128F9322DDD | Vos No Confiaste                | 2 Minutos            | Rock Punk |
+| TRAFOKY128F92ED751 | I Did it for You                | David Cook           | Rock      |
+================================================================================
+
+🎵 Test Recommendation for: The Way I Am by Eminem (Genre: Rap)
+| track_id           | title            | artist_name                     | genre      |
+|--------------------|------------------|---------------------------------|------------|
+| TRAIGSC128F933BBD7 | Printemps        | Les Ogres De Barback            | Jazz       |
+| TRADXNV128F42B4DFE | Mas Que Nada     | Sergio Mendes / Black Eyed Peas | Rock       |
+| TRANJMO128F425C44D | Comme Toi (Live) | Jean-Jacques Goldman            | Pop Rock   |
+| TRASWIV128E0788A84 | Real Love        | The Smashing Pumpkins           | Rock       |
+| TRAGWDA128F1473193 | Do It To Me      | Sasha                           | Electronic |
+================================================================================
+
+🎵 Test Recommendation for: Horrible by Jack Off Jill (Genre: Rock)
+| track_id           | title                          | artist_name          | genre     |
+|--------------------|--------------------------------|----------------------|-----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock      |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz      |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman | Pop Rock  |
+| TRARHCB128F148D1B0 | The Haunting                   | The Misfits          | Rock Punk |
+| TRAABVM128F92CA9DC | Caught In A Dream              | Tesla                | Rock      |
+================================================================================
+
+🎵 Test Recommendation for: It Makes No Difference by Jimmie Davis (Genre: Country)
+| track_id           | title                                | artist_name          | genre    |
+|--------------------|--------------------------------------|----------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)                     | Jean-Jacques Goldman | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps                            | Les Ogres De Barback | Jazz     |
+| TRAUXSO128F42B863C | Spawn (Again)                        | Silverchair          | Rock     |
+| TRAOSFC128F42618F6 | Here Comes The Big Parade            | Harry Connick_ Jr.   | Jazz     |
+| TRAKPSR128F146A1DC | Wildcat Days (1999 Digital Remaster) | Bryan Ferry          | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Mercury & Solace by BT (Genre: Electronic)
+| track_id           | title                     | artist_name                   | genre         |
+|--------------------|---------------------------|-------------------------------|---------------|
+| TRAIGSC128F933BBD7 | Printemps                 | Les Ogres De Barback          | Jazz          |
+| TRANJMO128F425C44D | Comme Toi (Live)          | Jean-Jacques Goldman          | Pop Rock      |
+| TRAAHRF128F92FE234 | Lead Me Lord              | The Brooklyn Tabernacle Choir | nan           |
+| TRAOSFC128F42618F6 | Here Comes The Big Parade | Harry Connick_ Jr.            | Jazz          |
+| TRAAZQW128F93430DC | Another Long One          | Shawn Colvin                  | Pop_Rock Folk |
+================================================================================
+
+🎵 Test Recommendation for: Señora (bonus track) by Francisco Céspedes (Genre: Pop)
+| track_id           | title                           | artist_name          | genre    |
+|--------------------|---------------------------------|----------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez       | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)                | Jean-Jacques Goldman | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback | Jazz     |
+| TRAYESZ128F1458FAE | The Order Of Death              | Public Image Ltd     | Rock     |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian          | Pop      |
+================================================================================
+
+🎵 Test Recommendation for: Lightning Breaks by Plasmatics (Genre: Rock)
+| track_id           | title                                             | artist_name             | genre    |
+|--------------------|---------------------------------------------------|-------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)                                  | Jean-Jacques Goldman    | Pop Rock |
+| TRAHCHN128F4276D58 | Somos Gitanos                                     | Gipsy Kings             | Folk     |
+| TRANWEM128F92D75C4 | Building                                          | Funeral For A Friend    | Rock     |
+| TRABHVL128F92EFB0E | Suffocating Under Words Of Sorrow (What Can I Do) | Bullet For My Valentine | Metal    |
+| TRAIGSC128F933BBD7 | Printemps                                         | Les Ogres De Barback    | Jazz     |
+================================================================================
+
+🎵 Test Recommendation for: United Blood (Album Version) by Agnostic Front (Genre: Punk)
+| track_id           | title                        | artist_name              | genre     |
+|--------------------|------------------------------|--------------------------|-----------|
+| TRASAIH128F931F567 | Betrayal Is A Symptom        | Thrice                   | Rock      |
+| TRAIGSC128F933BBD7 | Printemps                    | Les Ogres De Barback     | Jazz      |
+| TRAJMQE128F9322DDD | Vos No Confiaste             | 2 Minutos                | Rock Punk |
+| TRAJFMH12903D052DC | La mujer que no sone (Album) | Ricardo Arjona           | Latin     |
+| TRAQYZI128F4273CF3 | Indian Queen                 | Electric Light Orchestra | Rock      |
+================================================================================
+
+🎵 Test Recommendation for: Hoy Es Hoy by Memphis La Blusera (Genre: Blues)
+| track_id           | title            | artist_name              | genre    |
+|--------------------|------------------|--------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live) | Jean-Jacques Goldman     | Pop Rock |
+| TRASWIV128E0788A84 | Real Love        | The Smashing Pumpkins    | Rock     |
+| TRAQYZI128F4273CF3 | Indian Queen     | Electric Light Orchestra | Rock     |
+| TRAUWRW128F9358C69 | Change Clothes   | Jay-Z                    | Rap      |
+| TRAIGSC128F933BBD7 | Printemps        | Les Ogres De Barback     | Jazz     |
+================================================================================
+
+🎵 Test Recommendation for: So In Love by Bescenta (Genre: Reggae)
+| track_id           | title                            | artist_name          | genre    |
+|--------------------|----------------------------------|----------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)   | Jaci Velasquez       | Rock     |
+| TRAUXSO128F42B863C | Spawn (Again)                    | Silverchair          | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)                 | Jean-Jacques Goldman | Pop Rock |
+| TRAAPGF128F1458F8B | (This Is Not A) Love Song (Live) | Public Image Ltd     | Rock     |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi)  | Lara Fabian          | Pop      |
+================================================================================
+
+🎵 Test Recommendation for: Doubt by The Cure (Genre: Rock)
+| track_id           | title                 | artist_name              | genre    |
+|--------------------|-----------------------|--------------------------|----------|
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice                   | Rock     |
+| TRAIGSC128F933BBD7 | Printemps             | Les Ogres De Barback     | Jazz     |
+| TRANJMO128F425C44D | Comme Toi (Live)      | Jean-Jacques Goldman     | Pop Rock |
+| TRAQYZI128F4273CF3 | Indian Queen          | Electric Light Orchestra | Rock     |
+| TRAFOKY128F92ED751 | I Did it for You      | David Cook               | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Still In Love by Nick Cave & The Bad Seeds (Genre: Rock)
+| track_id           | title                                | artist_name           | genre    |
+|--------------------|--------------------------------------|-----------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)       | Jaci Velasquez        | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)                     | Jean-Jacques Goldman  | Pop Rock |
+| TRAFOKY128F92ED751 | I Did it for You                     | David Cook            | Rock     |
+| TRASWIV128E0788A84 | Real Love                            | The Smashing Pumpkins | Rock     |
+| TRAKPSR128F146A1DC | Wildcat Days (1999 Digital Remaster) | Bryan Ferry           | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Career Suicide (CD) by The Cliks (Genre: Rock)
+| track_id           | title                    | artist_name              | genre    |
+|--------------------|--------------------------|--------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)         | Jean-Jacques Goldman     | Pop Rock |
+| TRARUTP128E0797FC7 | Crawling (Album Version) | Linkin Park              | Rock     |
+| TRASAIH128F931F567 | Betrayal Is A Symptom    | Thrice                   | Rock     |
+| TRAQYZI128F4273CF3 | Indian Queen             | Electric Light Orchestra | Rock     |
+| TRASWIV128E0788A84 | Real Love                | The Smashing Pumpkins    | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Can't Break a Dead Girl's Heart by Zombina & The Skeletones (Genre: Rock)
+| track_id           | title                 | artist_name              | genre    |
+|--------------------|-----------------------|--------------------------|----------|
+| TRANJMO128F425C44D | Comme Toi (Live)      | Jean-Jacques Goldman     | Pop Rock |
+| TRASWIV128E0788A84 | Real Love             | The Smashing Pumpkins    | Rock     |
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice                   | Rock     |
+| TRAQYZI128F4273CF3 | Indian Queen          | Electric Light Orchestra | Rock     |
+| TRAIGSC128F933BBD7 | Printemps             | Les Ogres De Barback     | Jazz     |
+================================================================================
+
+🎵 Test Recommendation for: Come On In by Washboard Sam (Genre: Blues)
+| track_id           | title                         | artist_name          | genre         |
+|--------------------|-------------------------------|----------------------|---------------|
+| TRAYDYV128F42906E1 | Breakin' It                   | Mindy McCready       | Country       |
+| TRAICJQ12903CF2681 | Ghastly Indoctrination        | Dark Fortress        | Rock Metal    |
+| TRANIPA128F93151A2 | Just One Of Those Things      | Dionne Warwick       | Pop           |
+| TRAGPAF128EF34542A | Sensory Deprivation Adventure | From Autumn To Ashes | Rock Punk     |
+| TRAAZQW128F93430DC | Another Long One              | Shawn Colvin         | Pop_Rock Folk |
+================================================================================
+
+🎵 Test Recommendation for: Crack by RUN-DMC (Genre: Rap)
+| track_id           | title             | artist_name                      | genre         |
+|--------------------|-------------------|----------------------------------|---------------|
+| TRAIGSC128F933BBD7 | Printemps         | Les Ogres De Barback             | Jazz          |
+| TRAAZQW128F93430DC | Another Long One  | Shawn Colvin                     | Pop_Rock Folk |
+| TRAABVM128F92CA9DC | Caught In A Dream | Tesla                            | Rock          |
+| TRAGWDA128F1473193 | Do It To Me       | Sasha                            | Electronic    |
+| TRARKEH128F1463CB2 | Delilah           | The Sensational Alex Harvey Band | Rock          |
+================================================================================
+
+🎵 Test Recommendation for: Overdrive by Foo Fighters (Genre: Rock)
+| track_id           | title                          | artist_name              | genre   |
+|--------------------|--------------------------------|--------------------------|---------|
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice                   | Rock    |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback     | Jazz    |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock    |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock    |
+| TRAFOKY128F92ED751 | I Did it for You               | David Cook               | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: My Sweet Loving Man by Skeeter Davis (Genre: Rock)
+| track_id           | title                          | artist_name          | genre      |
+|--------------------|--------------------------------|----------------------|------------|
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz       |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman | Pop Rock   |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock       |
+| TRAPCNK128F427D7B5 | You Appearing                  | M83                  | Electronic |
+| TRAYDYV128F42906E1 | Breakin' It                    | Mindy McCready       | Country    |
+================================================================================
+
+🎵 Test Recommendation for: He Says The Same Things To Me by Skeeter Davis (Genre: Country)
+| track_id           | title            | artist_name          | genre      |
+|--------------------|------------------|----------------------|------------|
+| TRAIGSC128F933BBD7 | Printemps        | Les Ogres De Barback | Jazz       |
+| TRANJMO128F425C44D | Comme Toi (Live) | Jean-Jacques Goldman | Pop Rock   |
+| TRAPCNK128F427D7B5 | You Appearing    | M83                  | Electronic |
+| TRAHCHN128F4276D58 | Somos Gitanos    | Gipsy Kings          | Folk       |
+| TRAFOKY128F92ED751 | I Did it for You | David Cook           | Rock       |
+================================================================================
+
+🎵 Test Recommendation for: Roter Rolls Royce by Ideal (Genre: Pop Rock)
+| track_id           | title                          | artist_name              | genre     |
+|--------------------|--------------------------------|--------------------------|-----------|
+| TRASAIH128F931F567 | Betrayal Is A Symptom          | Thrice                   | Rock      |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez           | Rock      |
+| TRAQYZI128F4273CF3 | Indian Queen                   | Electric Light Orchestra | Rock      |
+| TRAABVM128F92CA9DC | Caught In A Dream              | Tesla                    | Rock      |
+| TRAJMQE128F9322DDD | Vos No Confiaste               | 2 Minutos                | Rock Punk |
+================================================================================
+
+🎵 Test Recommendation for: English Summer Rain by Placebo (Genre: Rock)
+| track_id           | title                          | artist_name          | genre    |
+|--------------------|--------------------------------|----------------------|----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez       | Rock     |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman | Pop Rock |
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback | Jazz     |
+| TRAIBXJ128F4260700 | Scenario                       | A Tribe Called Quest | Rap      |
+| TRANWEM128F92D75C4 | Building                       | Funeral For A Friend | Rock     |
+================================================================================
+
+🎵 Test Recommendation for: Girl You're So Together by Michael Jackson (Genre: Pop)
+| track_id           | title                 | artist_name           | genre     |
+|--------------------|-----------------------|-----------------------|-----------|
+| TRAIGSC128F933BBD7 | Printemps             | Les Ogres De Barback  | Jazz      |
+| TRANJMO128F425C44D | Comme Toi (Live)      | Jean-Jacques Goldman  | Pop Rock  |
+| TRASAIH128F931F567 | Betrayal Is A Symptom | Thrice                | Rock      |
+| TRASWIV128E0788A84 | Real Love             | The Smashing Pumpkins | Rock      |
+| TRAJMQE128F9322DDD | Vos No Confiaste      | 2 Minutos             | Rock Punk |
+================================================================================
+
+🎵 Test Recommendation for: Le Petit Train (Mixé Par Mark Plati) by Raphaël (Genre: Pop Rock)
+| track_id           | title                          | artist_name           | genre     |
+|--------------------|--------------------------------|-----------------------|-----------|
+| TRAIGSC128F933BBD7 | Printemps                      | Les Ogres De Barback  | Jazz      |
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version) | Jaci Velasquez        | Rock      |
+| TRANJMO128F425C44D | Comme Toi (Live)               | Jean-Jacques Goldman  | Pop Rock  |
+| TRASWIV128E0788A84 | Real Love                      | The Smashing Pumpkins | Rock      |
+| TRAJMQE128F9322DDD | Vos No Confiaste               | 2 Minutos             | Rock Punk |
+================================================================================
+
+🎵 Test Recommendation for: Wildfire (Album Version) by P.O.D. (Genre: Rock)
+| track_id           | title                           | artist_name          | genre   |
+|--------------------|---------------------------------|----------------------|---------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez       | Rock    |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback | Jazz    |
+| TRASAIH128F931F567 | Betrayal Is A Symptom           | Thrice               | Rock    |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian          | Pop     |
+| TRAFOKY128F92ED751 | I Did it for You                | David Cook           | Rock    |
+================================================================================
+
+🎵 Test Recommendation for: Yellow Brick Road by Jack Off Jill (Genre: Rock)
+| track_id           | title                           | artist_name          | genre     |
+|--------------------|---------------------------------|----------------------|-----------|
+| TRANVTB128F92E2C34 | Al Munda Dios Amo (LP Version)  | Jaci Velasquez       | Rock      |
+| TRASAIH128F931F567 | Betrayal Is A Symptom           | Thrice               | Rock      |
+| TRANUSB128F9343695 | TLFM (Toutes Les Femmes En Moi) | Lara Fabian          | Pop       |
+| TRAIGSC128F933BBD7 | Printemps                       | Les Ogres De Barback | Jazz      |
+| TRAJMQE128F9322DDD | Vos No Confiaste                | 2 Minutos            | Rock Punk |
+================================================================================
