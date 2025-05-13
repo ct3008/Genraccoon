@@ -1,77 +1,91 @@
-# Genraccoon
-Genraccoon - an analysis of NN based song genre prediction and recommenders
+# 🎵 Genraccoon  
+*A Neural Network-Based Approach to Genre Prediction and Song Recommendation*
 
-HEAD
-Files:
+---
 
-Data Processing:
-- helper_functions/main.py: data processing. Assumes MillionSongs dataset is in the folder outside of the current repo. Recursively traverses to read all h5 files and put data into csv format
-	- output: msd_dataset_full.csv w/ audio features, genre, lyrics (bag of words)
+## 🧠 Project Overview  
+**Genraccoon** explores deep learning techniques to classify music by genre and recommend songs based on lyrical and audio metadata. We experiment with GRU and LSTM-based architectures, incorporating attention mechanisms and convolutional filters to enhance performance.
 
-- helper_functions/helper.py: appends information from track_metadata.db, artist_term.db, artist_similarity.db
-	- output: msd_dataset_enriched_with_similar_songs.csv
+---
 
-- helper_functions/fill_genre.py: enhances msd_dataset_enriched_with_similar_songs.csv by using all 3 tagtraum files to find proper genre for each song. If no match is found, uses artist tags from artist_term.db to perform soft matches and find appropriate genre tags.
-	- output: msd_dataset_enriched_with_similar_songs.csv
+## 📁 File Structure
 
- - lyrics.py: calls upon genius API to search on artist_name and song_title from our dataset. If found, append properly formatted lyrics to dataset
-	- output: msd_dataset_with_genius_lyrics.csv
+### 🔧 Data Processing
 
- - genius_lyrics_clean.ipynb: cleans raw Genius lyrics by removing metadata and punctuation and standardizes genre labels into 15 unified categories
+| File | Description |
+|------|-------------|
+| `helper_functions/main.py` | Parses Million Song Dataset (MSD) HDF5 files to create a CSV of audio features, genre, and lyrics. **Output:** `msd_dataset_full.csv` |
+| `helper_functions/helper.py` | Enhances CSV with metadata from `track_metadata.db`, `artist_term.db`, `artist_similarity.db`. **Output:** `msd_dataset_enriched_with_similar_songs.csv` |
+| `helper_functions/fill_genre.py` | Fills in genre labels using Tagtraum files. Falls back on artist tags if needed. |
+| `lyrics.py` | Uses the Genius API to retrieve lyrics for songs by artist and title. **Output:** `msd_dataset_with_genius_lyrics.csv` |
+| `genius_lyrics_clean.ipynb` | Cleans lyrics and standardizes genre labels into 15 unified classes. **Output:** `msd_dataset_with_only_clean_lyrics.csv` |
 
--------------------------------------------------------------
+---
 
-GRU Code: 
-- gru_hyperparam.ipynb: notebook used to train and test basic GRU model on our dataset. Does hyperparameter tuning and tests performance on test data both with and without metadata present to analyze its effect.
+### 🧠 GRU-Based Models
 
-- gru_sliding_window.ipynb: notebook used to train improved GRU model using sliding window method and perform same analyses as gru_hyperparam.ipynb.
+| File | Description |
+|------|-------------|
+| `gru_hyperparam.ipynb` | Baseline GRU model with hyperparameter tuning. Compares metadata vs. lyrics-only versions. |
+| `gru_sliding_window.ipynb` | GRU model with sliding window over lyrics for better sequential modeling. |
+| `gru+attention.ipynb` | GRU + Attention model combining sliding windows and context-aware focus. |
+| `recommender.ipynb` | Song recommendation pipeline using genre predictions and metadata.  |
+**Output:** `_recommendations.csv`, `_formatted_recommendations.txt` |
 
-- gru+attention.ipynb: notebook used to train improved GRU model using sliding window method WITH ATTENTION LAYERS and perform same analyses as gru_hyperparam.ipynb.
+---
 
-- recommender.ipynb: notebook used to train recommendation system using lyrics + metadata and genre.
-	- output: *_recommendations.csv, *_formatted_recommendations.txt
--------------------------------------------------------------
+### 🧮 LSTM-Based Models
 
-LSTM Code:
-- lstm.ipynb: notebook used to train LSTM model
+| File | Description |
+|------|-------------|
+| `lstm.ipynb` | Basic LSTM model with frozen pre-trained embeddings. |
+| `new_lstm_attention_baseline.ipynb` | LSTM+Attention baseline model before adding convolution layers. |
+| `lstm_attention.ipynb` | Final LSTM+Attention model with Conv1D, trainable embeddings, and optimized architecture. |
 
-- lstm_attention.ipynb: notebook used to train LSTM + Attention model
+---
 
+### 📂 Miscellaneous
 
--------------------------------------------------------------
+| File/Folder        | Description                                                            |
+| ------------------ | ---------------------------------------------------------------------- |
+| `old_code/`        | Archived versions of earlier model/code attempts.                      |
+| `output_files/`    | Clean CSVs for testing and training (`train_set.csv`, `test_set.csv`). |
+| `requirements.txt` | Python package dependencies.                                           |
 
-Miscellaneous:
-- old code/: folder of previous versions of our code for bookkeeping
-- output_files/: folder holding our relocated example generated csv's for cleanliness
-	- output_files/test_set.csv -> test set created in recommmendations.ipynb to train model
-	- output_files/train_set.csv -> train set created in recommmendations.ipynb to train model
-- requirements.txt: requirements to run code
+---
 
-------------------------------------------------------------------------------------------------------------------------
+## 📦 Required Datasets & Resources
 
-Useful Datasets to download:
-Genre tagging: https://www.tagtraum.com/msd_genre_datasets.html 
-- download:
-	- msd_tagtraum_cd2.cls.zip
-   	- msd_tagtraum_cd1.cls.zip
-   	- msd_tagtraum_cd2c.cls.zip
+### 🔗 Datasets to Download
 
-Lyrics: http://millionsongdataset.com/musixmatch/#getting
-- download the train and test dataset (hyperlinks)
+- **Tagtraum Genre Annotations**  
+  [https://www.tagtraum.com/msd_genre_datasets.html](https://www.tagtraum.com/msd_genre_datasets.html)  
+  - Download:
+    - `msd_tagtraum_cd1.cls.zip`
+    - `msd_tagtraum_cd2.cls.zip`
+    - `msd_tagtraum_cd2c.cls.zip`
 
-Million Song Subset: http://millionsongdataset.com/pages/getting-dataset/#subset
-- download "MILLION SONG SUBSET" (hyperlinks)
+- **Lyrics Dataset**  
+  [http://millionsongdataset.com/musixmatch/#getting](http://millionsongdataset.com/musixmatch/#getting)
 
-useful DB files
-- Get from: http://millionsongdataset.com/pages/getting-dataset/#subset
-  	- the three SQLite database files (8,9,10)
-  	- http://millionsongdataset.com/sites/default/files/AdditionalFiles/track_metadata.db
-  	- http://www.ee.columbia.edu/~thierry/artist_term.db
-  	- http://www.ee.columbia.edu/~thierry/artist_similarity.db
- 
-Genius API:
-- https://docs.genius.com/
+- **Million Song Subset**  
+  [http://millionsongdataset.com/pages/getting-dataset/#subset](http://millionsongdataset.com/pages/getting-dataset/#subset)
 
+### 🗃 SQLite Metadata (Required)
 
- 
+- `track_metadata.db`
+- `artist_term.db`
+- `artist_similarity.db`
 
+Download from the MSD subset page:  
+[http://millionsongdataset.com/pages/getting-dataset/#subset](http://millionsongdataset.com/pages/getting-dataset/#subset)
+
+### 🎤 Genius API  
+- Documentation: [https://docs.genius.com/](https://docs.genius.com/)
+
+---
+
+## 📌 Notes  
+- Properly formatted lyrics are fetched via the Genius API.
+- Audio and metadata features are derived from MSD and aligned using track IDs.
+- Models were evaluated using accuracy, F1, and genre-level confusion matrices.
